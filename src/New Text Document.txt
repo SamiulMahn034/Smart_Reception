@@ -1,0 +1,16 @@
+        <div >
+            
+            
+            <div className='container' >
+           <div style={faqStyleQue}>
+           <p style={{paddingLeft:'50px',paddingTop:'15px',textSizeAdjust:''}}>{props.question}</p>
+           
+           <p style={{paddingRight:'20px',paddingTop:'15px',textSizeAdjust:''}} onClick={()=>setShow(!show)}>{ show? "🡡":"🡣"}</p>
+           </div>
+            
+                {show &&<p style={faqStyleAns}>{props.answer}</p>}
+            
+            
+            </div>
+            
+            </div>

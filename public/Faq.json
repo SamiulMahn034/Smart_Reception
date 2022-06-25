@@ -1,0 +1,24 @@
+[
+	{
+		"id": 1,
+		"question": "Where is united international university located?",
+		"answer": "Ans1"
+	},
+	{
+		"id": 2,
+		"question": "How many departments are there??",
+		"answer": "Ans 2"
+	},
+    {
+		"id": 3,
+		"question": "What is the approximate cost Bechelors ?",
+		"answer": "Ans3"
+	},
+	{
+		"id": 4,
+		"question": "How many credits have to completed in BsCSE?",
+		"answer": "Ans 4"
+	}
+    
+
+]
