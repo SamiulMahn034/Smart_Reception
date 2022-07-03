@@ -2,17 +2,23 @@ import React, { useEffect, useState } from 'react';
 import Header from '../Header/Header';
 import DisplayFaq from './DisplayFaq';
 import './Faq.css'
+import axios from 'axios';
 import bg from '../../imeges/faq.jpg'
+
 
 const Faq = (props) => {
     const [faq,setFaq]=useState([])
     useEffect(()=>{
-        fetch('./faq.json')
-        .then(res => res.json())
-        .then(data => setFaq(data))
-        console.log(faq)
-    
+        getFaq();
+  
     },[])
+    function getFaq(){
+        axios.get('http://localhost:80/Smart Recieption/api/user/')
+        .then(function(response){
+            console.log(response.data)
+            setFaq(response.data)
+        })
+    }
 
     return (
         
@@ -24,7 +30,7 @@ const Faq = (props) => {
             
             <br />
             {
-                faq.map(faq=><DisplayFaq key={faq.id} question={faq.question} answer={faq.answer}></DisplayFaq> )
+                faq.map(faq=><DisplayFaq key={faq.ID} question={faq.Question} answer={faq.Answer}></DisplayFaq> )
                 
             }
             </div>

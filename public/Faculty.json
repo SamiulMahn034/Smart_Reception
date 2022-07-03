@@ -1,0 +1,214 @@
+[
+	{
+		"id": 1,
+		"name": "SARWAR, HASAN, Ph.D.",
+		"designation": "Professor",
+		"dept":"CSE",
+		"image":"./imeges/1.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 2,
+		"name": "HUDA, MOHAMMAD NURUL, Ph.D.",
+		"designation": "Professor & Director - MSCSE",
+		"dept":"CSE",
+		"image":"./imeges/2.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 3,
+		"name": "AHMMED, SUMAN",
+		"designation": "Asst. Professor, CSE | Director, Center for Development of IT Professionals (CDIP)",
+		"dept":"CSE",
+		"image":"./imeges/10.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 4,
+		"name": "MAMUN, KHONDAKER ABDULLAH AL, Ph.D.",
+		"designation": "Professor & Director - AIMS Lab",
+		"dept":"CSE",
+		"image":"./imeges/4.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 5,
+		"name": "ISLAM, A.K.M. MUZAHIDUL, Ph.D.",
+		"designation": "Professor & Director - CIAC",
+		"dept":"CSE",
+		"image":"./imeges/5.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 6,
+		"name": "ISLAM, MD. MOTAHARUL, PhD",
+		"designation": "Professor",
+		"dept":"CSE",
+		"image":"./imeges/6.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 7,
+		"name": "SHATABDA, SWAKKHAR, Ph.D",
+		"designation": "Professor & Director- IQAC",
+		"dept":"CSE",
+		"image":"./imeges/7.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+
+	{
+		"id": 8,
+		"name": "PATHAN, AL-SAKIB KHAN, Ph.D",
+		"designation": "Professor",
+		"dept":"CSE",
+		"image":"./imeges/8.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 9,
+		"name": "ELAHI, MOHAMMAD MAMUN",
+		"designation": "Professor",
+		"dept":"CSE",
+		"image":"./imeges/9.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+
+	{
+		"id": 11,
+		"name": "MOSTAFA, RAQIBUL, Ph.D.",
+		"designation": "Professor & Dean SoSE",
+		"dept":"EEE",
+		"image":"./imeges/11.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 12,
+		"name": "AHMED, KHAWZA IFTEKHAR UDDIN, Ph.D.",
+		"designation": "Professor",
+		"dept":"EEE",
+		"image":"./imeges/12.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 13,
+		"name": "ALAM, INTEKHAB, Ph.D.",
+		"designation": "Professor & Head of the DeptProfessor",
+		"dept":"EEE",
+		"image":"./imeges/13.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 14,
+		"name": "RAHMAN, KALED MASUKUR, Ph.D.",
+		"designation": "Professor",
+		"dept":"EEE",
+		"image":"./imeges/14.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 15,
+		"name": "CHOWDHURY, MD. IQBAL BAHAR, Ph.D.",
+		"designation": "Associate Professor",
+		"dept":"EEE",
+		"image":"./imeges/15.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 16,
+		"name": "ZAMAN, ABU SALEH MD. SOHEL-UZ-, Ph.D.",
+		"designation": "Professor",
+		"dept":"BBA",
+		"image":"./imeges/16.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 17,
+		"name": "AHMED, HASNAN, Ph.D.",
+		"designation": "Professor",
+		"dept":"BBA",
+		"image":"./imeges/17.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 18,
+		"name": "MUSA, MOHAMMAD, Ph.D.",
+		"designation": "Professor",
+		"dept":"BBA",
+		"image":"./imeges/18.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 19,
+		"name": "KARIM, SALMA, Ph.D.",
+		"designation": "Professor",
+		"dept":"BBA",
+		"image":"./imeges/19.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	},
+	{
+		"id": 20,
+		"name": "SOBHANI, FARID AHAMMAD, Ph.D.",
+		"designation": "Professor & Director - MBA, EMBA & MIHRM Programs",
+		"dept":"BBA",
+		"image":"./imeges/20.jpg",
+		"slot1":"8am-10amm",
+		"slot2":"11am-1pm",
+		"slot3":"2pm-4pm"
+
+	}
+
+]  

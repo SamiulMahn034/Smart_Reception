@@ -1,0 +1,25 @@
+[
+	{
+		"id": 1,
+		"img": "/public/imeges/map/Admission office.png",
+		"direction": "Go few steps forward from the Go few steps forward from the entrance and turn left You'll find the admission office",
+		"audio":"/public/imeges/map/admission office.mp3"
+		
+	},
+	{
+		"id": 2,
+		"img": "/public/imeges/map/canteen direction.png",
+		"direction": "Go few steps forward from the Go few steps forward from the entrance and turn left You'll find the canteen ",
+		"audio":"/public/imeges/map/canteen.mp3"
+		
+	},
+	{
+		"id": 3,
+		"img": "/public/imeges/map/library.png",
+		"direction": "Go few steps forward from the Go few steps forward from the entrance and turn left You'll find the library ",
+		"audio":"/public/imeges/map/library.mp3"
+		
+	}
+    
+
+]

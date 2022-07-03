@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from '../Header/Header';
-import './Home.css'
-import { Link } from 'react-router-dom';
-const Home = () => {
+import Create_faq from '../Create Faq/Create_faq';
+import {Link} from 'react-router-dom';
+import Admin_header from './Admin_header';
+const Admin = () => {
     return (
         <div className='body'>
-            <Header></Header>
-            <main className="container text-white " style={{paddingTop:'150px'}}>
+            <Admin_header></Admin_header>
+                       <main className="container text-white " style={{paddingTop:'150px'}}>
     <div>
         <h2 style={{fontSize:'50px'}}>WELCOME TO</h2>
     </div>
@@ -17,21 +17,21 @@ const Home = () => {
         <div style={{display:'flex', flexDirection:'column'}}>
             <div style={{width:'250px'}}>
             <span >
-                    Get an appointment easily on suitable time. 
+                    Check all appointment's details here. 
             </span>
             </div>
             <div style={{paddingTop:'20px'}}>
-           <Link to='/appointment'><button className=" btn rounded-pill btn-light shadow fw-bold" style={{color:'#fc614f', width:'80%', height:'50px'}}> Get Appointment</button></Link> 
+           <Link to=''><button className=" btn rounded-pill btn-light shadow fw-bold" style={{color:'#fc614f', width:'80%', height:'50px'}}> Appointment</button></Link> 
             </div>
         </div>
         <div style={{display:'flex', flexDirection:'column'}}>
             <div style={{width:'250px'}}>
             <span >
-                    Get clear direction of any places of our campus.
+                     Check and edit direction's details here. 
             </span>
             </div>
             <div style={{paddingTop:'20px'}}>
-                <Link to ='/direction'><button className=" btn rounded-pill btn-light shadow fw-bold" style={{color:'#fc614f', width:'80%', height:'50px'  }}> Get Direction</button></Link>
+                <Link to =''><button className=" btn rounded-pill btn-light shadow fw-bold" style={{color:'#fc614f', width:'80%', height:'50px'  }}> Get Direction</button></Link>
             
             </div>
         </div>
@@ -39,11 +39,11 @@ const Home = () => {
         <div style={{display:'flex', flexDirection:'column'}}>
             <div style={{width:'250px'}}>
             <span >
-                    Get Answer of some frequently asked questions.
+                   Check and edit frequently asked questions here.
             </span>
             </div>
             <div style={{paddingTop:'20px'}}>
-            <Link to='/faq'><button className=" btn rounded-pill btn-light shadow fw-bold" style={{color:'#fc614f', width:'80%', height:'50px'}}> FAQ</button></Link>
+            <Link to='/Admin/Create_faq'><button className=" btn rounded-pill btn-light shadow fw-bold" style={{color:'#fc614f', width:'80%', height:'50px'}}> FAQ</button></Link>
             </div>
       
    
@@ -58,9 +58,9 @@ const Home = () => {
         <br />
         <br />
 
-</main>
+</main> 
         </div>
     );
 };
 
-export default Home;
+export default Admin;
